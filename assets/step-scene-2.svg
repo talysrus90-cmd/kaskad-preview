@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 240" role="img" aria-labelledby="title"><title id="title">Исходные данные: замер комнаты и фотографирование</title><rect width="480" height="240" rx="18" fill="#f7f2e9"/><circle cx="400" cy="44" r="72" fill="#ecdfcc"/><path d="M38 213h405" stroke="#d9dccd" stroke-width="2"/><ellipse cx="244" cy="218" rx="166" ry="8" fill="#dfdece" opacity=".55"/><g><rect x="186" y="31" width="112" height="96" rx="9" fill="#e4ece2" stroke="#d2dece" stroke-width="2"/><path d="M242 31v96M186 79h112" stroke="#fffdf8" stroke-width="6"/></g><g transform="translate(424 170)"><path d="M-14 0h28l-4 31h-20Z" fill="#cb805b"/><path d="M0 0v-42" stroke="#294c3c" stroke-width="3"/><ellipse cx="-9" cy="-25" rx="8" ry="18" transform="rotate(-30 -9 -25)" fill="#a9c3ad"/><ellipse cx="9" cy="-40" rx="8" ry="18" transform="rotate(30 9 -40)" fill="#294c3c"/></g>
+<path d="M50 38v155h346M50 194l30 19" stroke="#cccaba" fill="none" stroke-width="3"/>
+<path d="M82 178h210" stroke="#e1b15e" stroke-width="9"/><path d="M92 174v9m18-9v6m18-6v9m18-9v6m18-6v9m18-9v6m18-6v9m18-9v6m18-6v9m18-9v6" stroke="#253f35" stroke-width="1.4"/>
+<g transform="translate(112 75)">
+<path d="M-13 77 -16 129M11 77 17 129" fill="none" stroke="#253f35" stroke-width="14" stroke-linecap="round"/>
+<path d="M-26 132h17M11 132h18" stroke="#253f35" stroke-width="9" stroke-linecap="round"/>
+<path d="M-21 28Q-20 18-10 16H11Q21 18 22 29L19 81H-20Z" fill="#cb805b"/>
+<path d="M-5 11v10q5 8 11 0V11" fill="#edc4a5"/>
+<path d="M-20 27-35 66-20 89" stroke="#edc4a5" fill="none" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/><path d="M20 29 37 63 10 101" stroke="#edc4a5" fill="none" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="0" cy="-1" rx="14" ry="17" fill="#edc4a5"/>
+<path d="M-14-2Q-18-23 0-22Q19-21 15-3L8-13Q-1-8-12-11Z" fill="#253f35"/>
+<circle cx="7" cy="0" r="1.4" fill="#253f35"/><path d="M2 8q5 4 8-1" fill="none" stroke="#a75f48" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M-18-10Q-15-33 0-32Q17-32 19-10Z" fill="#e1b15e"/><path d="M-22-9h45" stroke="#e1b15e" stroke-width="6" stroke-linecap="round"/>
+</g>
+<rect x="102" y="167" width="28" height="21" rx="6" fill="#294c3c"/><circle cx="117" cy="178" r="5" fill="#e1b15e"/>
+<g transform="translate(337 76)">
+<path d="M-13 77 -16 129M11 77 17 129" fill="none" stroke="#253f35" stroke-width="14" stroke-linecap="round"/>
+<path d="M-26 132h17M11 132h18" stroke="#253f35" stroke-width="9" stroke-linecap="round"/>
+<path d="M-21 28Q-20 18-10 16H11Q21 18 22 29L19 81H-20Z" fill="#294c3c"/>
+<path d="M-5 11v10q5 8 11 0V11" fill="#edc4a5"/>
+<path d="M-21 28 -37 52 -49 34" stroke="#edc4a5" fill="none" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/><path d="M21 29 24 60 -29 31" stroke="#edc4a5" fill="none" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="0" cy="-1" rx="14" ry="17" fill="#edc4a5"/>
+<path d="M-14-2Q-18-23 0-22Q19-21 15-3L8-13Q-1-8-12-11Z" fill="#253f35"/>
+<circle cx="7" cy="0" r="1.4" fill="#253f35"/><path d="M2 8q5 4 8-1" fill="none" stroke="#a75f48" stroke-width="1.5" stroke-linecap="round"/>
+
+</g>
+<rect x="278" y="85" width="25" height="39" rx="5" fill="#253f35" transform="rotate(-8 290 105)"/><rect x="282" y="91" width="17" height="25" rx="2" fill="#fcfbf4"/><circle cx="291" cy="120" r="1.5" fill="#e1b15e"/>
+<path d="m253 75 8-7m2 22h-10" stroke="#e1b15e" stroke-width="3" stroke-linecap="round"/>
+</svg>

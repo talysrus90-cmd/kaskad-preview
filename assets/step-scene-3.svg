@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 240" role="img" aria-labelledby="title"><title id="title">Варианты решений: дизайнер и клиент выбирают материалы и планировку</title><rect width="480" height="240" rx="18" fill="#f7f2e9"/><circle cx="400" cy="44" r="72" fill="#ecdfcc"/><path d="M38 213h405" stroke="#d9dccd" stroke-width="2"/><ellipse cx="244" cy="218" rx="166" ry="8" fill="#dfdece" opacity=".55"/><g><rect x="346" y="33" width="70" height="75" rx="9" fill="#e4ece2" stroke="#d2dece" stroke-width="2"/><path d="M381 33v75M346 70.5h70" stroke="#fffdf8" stroke-width="6"/></g>
+<rect x="172" y="27" width="126" height="93" rx="7" fill="#fff" stroke="#d4dccc" stroke-width="2"/><path d="M185 43h47v25h49v34h-96Z M232 43v25m-47 10h22v24" fill="none" stroke="#294c3c" stroke-width="3"/><rect x="254" y="42" width="26" height="15" rx="2" fill="#a9c3ad"/>
+<g transform="translate(117 77)">
+<path d="M-13 77 -16 129M11 77 17 129" fill="none" stroke="#253f35" stroke-width="14" stroke-linecap="round"/>
+<path d="M-26 132h17M11 132h18" stroke="#253f35" stroke-width="9" stroke-linecap="round"/>
+<path d="M-21 28Q-20 18-10 16H11Q21 18 22 29L19 81H-20Z" fill="#294c3c"/>
+<path d="M-5 11v10q5 8 11 0V11" fill="#edc4a5"/>
+<path d="M20 28 44 44 67 45" stroke="#edc4a5" fill="none" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/><path d="M-20 30 -23 70 -14 85" stroke="#edc4a5" fill="none" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="0" cy="-1" rx="14" ry="17" fill="#edc4a5"/>
+<path d="M-14-2Q-18-23 0-22Q19-21 15-3L8-13Q-1-8-12-11Z" fill="#253f35"/>
+<circle cx="7" cy="0" r="1.4" fill="#253f35"/><path d="M2 8q5 4 8-1" fill="none" stroke="#a75f48" stroke-width="1.5" stroke-linecap="round"/>
+
+</g>
+<g transform="translate(361 77)">
+<path d="M-13 77 -16 129M11 77 17 129" fill="none" stroke="#253f35" stroke-width="14" stroke-linecap="round"/>
+<path d="M-26 132h17M11 132h18" stroke="#253f35" stroke-width="9" stroke-linecap="round"/>
+<path d="M-21 28Q-20 18-10 16H11Q21 18 22 29L19 81H-20Z" fill="#cb805b"/>
+<path d="M-5 11v10q5 8 11 0V11" fill="#edc4a5"/>
+<path d="M-20 29-48 52-66 41" stroke="#edc4a5" fill="none" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/><path d="M20 30 31 62 21 78" stroke="#edc4a5" fill="none" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="0" cy="-1" rx="14" ry="17" fill="#edc4a5"/>
+<path d="M-14-2Q-18-23 0-22Q19-21 15-3L8-13Q-1-8-12-11Z" fill="#253f35"/>
+<circle cx="7" cy="0" r="1.4" fill="#253f35"/><path d="M2 8q5 4 8-1" fill="none" stroke="#a75f48" stroke-width="1.5" stroke-linecap="round"/>
+
+</g>
+<path d="M128 146h224M147 150l-9 60M329 150l8 60" fill="none" stroke="#294c3c" stroke-width="8" stroke-linecap="round"/><rect x="123" y="137" width="235" height="13" rx="5" fill="#cb805b"/><rect x="178" y="123" width="58" height="13" rx="3" fill="#fff"/><rect x="247" y="117" width="21" height="20" rx="2" fill="#e8dbc8" transform="rotate(-12 257 127)"/><rect x="272" y="117" width="21" height="20" rx="2" fill="#a9c3ad"/><rect x="298" y="117" width="21" height="20" rx="2" fill="#cb805b" transform="rotate(12 308 127)"/>
+</svg>

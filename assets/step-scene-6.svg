@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 240" role="img" aria-labelledby="title"><title id="title">Сдача под ключ: менеджер вручает ключи счастливым новосёлам</title><rect width="480" height="240" rx="18" fill="#f7f2e9"/><circle cx="400" cy="44" r="72" fill="#ecdfcc"/><path d="M38 213h405" stroke="#d9dccd" stroke-width="2"/><ellipse cx="244" cy="218" rx="166" ry="8" fill="#dfdece" opacity=".55"/>
+<path d="M46 92 139 24l92 68" fill="#e5d7bf" stroke="#cb805b" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/><path d="M60 87v112h158V87" fill="#fffdf7"/><rect x="88" y="99" width="45" height="42" rx="3" fill="#a9c3ad"/><path d="M110 99v42M88 120h45" stroke="#fff" stroke-width="4"/><rect x="153" y="100" width="42" height="99" rx="4" fill="#294c3c"/><circle cx="186" cy="150" r="3" fill="#e1b15e"/>
+<g transform="translate(259 75)">
+<path d="M-13 77 -16 129M11 77 17 129" fill="none" stroke="#253f35" stroke-width="14" stroke-linecap="round"/>
+<path d="M-26 132h17M11 132h18" stroke="#253f35" stroke-width="9" stroke-linecap="round"/>
+<path d="M-21 28Q-20 18-10 16H11Q21 18 22 29L19 81H-20Z" fill="#294c3c"/>
+<path d="M-5 11v10q5 8 11 0V11" fill="#edc4a5"/>
+<path d="M-20 29-31 65-19 82" stroke="#edc4a5" fill="none" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/><path d="M20 28 46 43 70 44" stroke="#edc4a5" fill="none" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="0" cy="-1" rx="14" ry="17" fill="#edc4a5"/>
+<path d="M-14-2Q-18-23 0-22Q19-21 15-3L8-13Q-1-8-12-11Z" fill="#253f35"/>
+<circle cx="7" cy="0" r="1.4" fill="#253f35"/><path d="M2 8q5 4 8-1" fill="none" stroke="#a75f48" stroke-width="1.5" stroke-linecap="round"/>
+
+</g>
+<g transform="translate(371 75)">
+<path d="M-13 77 -16 129M11 77 17 129" fill="none" stroke="#253f35" stroke-width="14" stroke-linecap="round"/>
+<path d="M-26 132h17M11 132h18" stroke="#253f35" stroke-width="9" stroke-linecap="round"/>
+<path d="M-21 28Q-20 18-10 16H11Q21 18 22 29L19 81H-20Z" fill="#cb805b"/>
+<path d="M-5 11v10q5 8 11 0V11" fill="#edc4a5"/>
+<path d="M-20 28 -40 44 -52 45" stroke="#edc4a5" fill="none" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/><path d="M20 27 36 2 41-12" stroke="#edc4a5" fill="none" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="0" cy="-1" rx="14" ry="17" fill="#edc4a5"/>
+<path d="M-14-2Q-18-23 0-22Q19-21 15-3L8-13Q-1-8-12-11Z" fill="#253f35"/>
+<circle cx="7" cy="0" r="1.4" fill="#253f35"/><path d="M2 8q5 4 8-1" fill="none" stroke="#a75f48" stroke-width="1.5" stroke-linecap="round"/>
+
+</g>
+<circle cx="326" cy="123" r="9" fill="none" stroke="#e1b15e" stroke-width="4"/><path d="M326 132v22m0-7h8m-8 7h6" fill="none" stroke="#e1b15e" stroke-width="4" stroke-linecap="round"/>
+<path d="m423 47 5-9m-1 24 10-1M297 34l5 7m37-13 2 10" stroke="#cb805b" stroke-width="3" stroke-linecap="round"/>
+<path d="m355 31 6-8 7 5-8 9Z" fill="#e1b15e"/><g transform="translate(49 175)"><path d="M-14 0h28l-4 31h-20Z" fill="#cb805b"/><path d="M0 0v-42" stroke="#294c3c" stroke-width="3"/><ellipse cx="-9" cy="-25" rx="8" ry="18" transform="rotate(-30 -9 -25)" fill="#a9c3ad"/><ellipse cx="9" cy="-40" rx="8" ry="18" transform="rotate(30 9 -40)" fill="#294c3c"/></g>
+</svg>

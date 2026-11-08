@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 240" role="img" aria-labelledby="title"><title id="title">Производство: мастер выполняет отделку, менеджер фотографирует и проверяет работы</title><rect width="480" height="240" rx="18" fill="#f7f2e9"/><circle cx="400" cy="44" r="72" fill="#ecdfcc"/><path d="M38 213h405" stroke="#d9dccd" stroke-width="2"/><ellipse cx="244" cy="218" rx="166" ry="8" fill="#dfdece" opacity=".55"/>
+<rect x="47" y="31" width="223" height="148" rx="8" fill="#e7ddc9"/><path d="M57 42h139v124H57Z" fill="#a9c3ad"/><path d="M190 45v120" stroke="#e7ddc9" stroke-width="14"/>
+<path d="M60 191h221M60 205h221M111 179v36m57-36v36m57-36v36" stroke="#b9c8b4" stroke-width="2"/>
+<g transform="translate(178 76)">
+<path d="M-13 77 -16 129M11 77 17 129" fill="none" stroke="#253f35" stroke-width="14" stroke-linecap="round"/>
+<path d="M-26 132h17M11 132h18" stroke="#253f35" stroke-width="9" stroke-linecap="round"/>
+<path d="M-21 28Q-20 18-10 16H11Q21 18 22 29L19 81H-20Z" fill="#cb805b"/>
+<path d="M-5 11v10q5 8 11 0V11" fill="#edc4a5"/>
+<path d="M-20 30-43 20-49-7" stroke="#edc4a5" fill="none" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/><path d="M20 29 35 62 15 81" stroke="#edc4a5" fill="none" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="0" cy="-1" rx="14" ry="17" fill="#edc4a5"/>
+<path d="M-14-2Q-18-23 0-22Q19-21 15-3L8-13Q-1-8-12-11Z" fill="#253f35"/>
+<circle cx="7" cy="0" r="1.4" fill="#253f35"/><path d="M2 8q5 4 8-1" fill="none" stroke="#a75f48" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M-18-10Q-15-33 0-32Q17-32 19-10Z" fill="#e1b15e"/><path d="M-22-9h45" stroke="#e1b15e" stroke-width="6" stroke-linecap="round"/>
+</g>
+<path d="M126 71v-19h36" stroke="#253f35" stroke-width="3" fill="none"/><rect x="143" y="44" width="43" height="14" rx="5" fill="#294c3c"/>
+<g transform="translate(346 75)">
+<path d="M-13 77 -16 129M11 77 17 129" fill="none" stroke="#253f35" stroke-width="14" stroke-linecap="round"/>
+<path d="M-26 132h17M11 132h18" stroke="#253f35" stroke-width="9" stroke-linecap="round"/>
+<path d="M-21 28Q-20 18-10 16H11Q21 18 22 29L19 81H-20Z" fill="#294c3c"/>
+<path d="M-5 11v10q5 8 11 0V11" fill="#edc4a5"/>
+<path d="M-20 30-42 47-51 29" stroke="#edc4a5" fill="none" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/><path d="M20 30 30 64 15 74" stroke="#edc4a5" fill="none" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="0" cy="-1" rx="14" ry="17" fill="#edc4a5"/>
+<path d="M-14-2Q-18-23 0-22Q19-21 15-3L8-13Q-1-8-12-11Z" fill="#253f35"/>
+<circle cx="7" cy="0" r="1.4" fill="#253f35"/><path d="M2 8q5 4 8-1" fill="none" stroke="#a75f48" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M-18-10Q-15-33 0-32Q17-32 19-10Z" fill="#e1b15e"/><path d="M-22-9h45" stroke="#e1b15e" stroke-width="6" stroke-linecap="round"/>
+</g>
+<rect x="283" y="83" width="24" height="37" rx="4" fill="#253f35" transform="rotate(-10 295 100)"/><rect x="286" y="88" width="17" height="23" rx="2" fill="#f4f2df"/>
+<rect x="359" y="137" width="33" height="41" rx="4" fill="#e8dbc8" transform="rotate(9 375 158)"/><path d="m366 148 4 4 8-10m-13 18h15m-14 6h12" stroke="#294c3c" stroke-width="2" fill="none"/>
+<rect x="73" y="180" width="36" height="30" rx="4" fill="#cb805b"/><path d="M80 181v-6q10-14 22 0v6" stroke="#253f35" stroke-width="2" fill="none"/>
+</svg>

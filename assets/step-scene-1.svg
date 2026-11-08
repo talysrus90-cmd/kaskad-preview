@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 240" role="img" aria-labelledby="title"><title id="title">Знакомство: клиент и специалист пожимают руки</title><rect width="480" height="240" rx="18" fill="#f7f2e9"/><circle cx="400" cy="44" r="72" fill="#ecdfcc"/><path d="M38 213h405" stroke="#d9dccd" stroke-width="2"/><ellipse cx="244" cy="218" rx="166" ry="8" fill="#dfdece" opacity=".55"/><g><rect x="48" y="35" width="92" height="85" rx="9" fill="#e4ece2" stroke="#d2dece" stroke-width="2"/><path d="M94 35v85M48 77.5h92" stroke="#fffdf8" stroke-width="6"/></g><g transform="translate(418 171)"><path d="M-14 0h28l-4 31h-20Z" fill="#cb805b"/><path d="M0 0v-42" stroke="#294c3c" stroke-width="3"/><ellipse cx="-9" cy="-25" rx="8" ry="18" transform="rotate(-30 -9 -25)" fill="#a9c3ad"/><ellipse cx="9" cy="-40" rx="8" ry="18" transform="rotate(30 9 -40)" fill="#294c3c"/></g>
+<rect x="206" y="28" width="81" height="38" rx="14" fill="#fff"/><path d="m235 66-9 11 2-15" fill="#fff"/><circle cx="225" cy="46" r="3" fill="#cb805b"/><circle cx="246" cy="46" r="3" fill="#cb805b"/><circle cx="267" cy="46" r="3" fill="#cb805b"/>
+<g transform="translate(169 75)">
+<path d="M-13 77 -16 129M11 77 17 129" fill="none" stroke="#253f35" stroke-width="14" stroke-linecap="round"/>
+<path d="M-26 132h17M11 132h18" stroke="#253f35" stroke-width="9" stroke-linecap="round"/>
+<path d="M-21 28Q-20 18-10 16H11Q21 18 22 29L19 81H-20Z" fill="#294c3c"/>
+<path d="M-5 11v10q5 8 11 0V11" fill="#edc4a5"/>
+<path d="M-20 30 -34 69 -31 86" stroke="#edc4a5" fill="none" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/><path d="M20 28 48 53 73 55" stroke="#edc4a5" fill="none" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="0" cy="-1" rx="14" ry="17" fill="#edc4a5"/>
+<path d="M-14-2Q-18-23 0-22Q19-21 15-3L8-13Q-1-8-12-11Z" fill="#253f35"/>
+<circle cx="7" cy="0" r="1.4" fill="#253f35"/><path d="M2 8q5 4 8-1" fill="none" stroke="#a75f48" stroke-width="1.5" stroke-linecap="round"/>
+
+</g>
+<g transform="translate(315 75)">
+<path d="M-13 77 -16 129M11 77 17 129" fill="none" stroke="#253f35" stroke-width="14" stroke-linecap="round"/>
+<path d="M-26 132h17M11 132h18" stroke="#253f35" stroke-width="9" stroke-linecap="round"/>
+<path d="M-21 28Q-20 18-10 16H11Q21 18 22 29L19 81H-20Z" fill="#cb805b"/>
+<path d="M-5 11v10q5 8 11 0V11" fill="#edc4a5"/>
+<path d="M-20 28 -47 52 -73 55" stroke="#edc4a5" fill="none" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/><path d="M20 30 34 64 29 85" stroke="#edc4a5" fill="none" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="0" cy="-1" rx="14" ry="17" fill="#edc4a5"/>
+<path d="M-14-2Q-18-23 0-22Q19-21 15-3L8-13Q-1-8-12-11Z" fill="#253f35"/>
+<circle cx="7" cy="0" r="1.4" fill="#253f35"/><path d="M2 8q5 4 8-1" fill="none" stroke="#a75f48" stroke-width="1.5" stroke-linecap="round"/>
+
+</g>
+<path d="m238 128 12-1 9 7-9 9-13-9Z" fill="#edc4a5" stroke="#ba876b" stroke-width="1.8"/>
+</svg>
